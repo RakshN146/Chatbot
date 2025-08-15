@@ -1,4 +1,4 @@
-# Chatbot
+# Simple Chatbot Using Python
 This project is a basic chatbot built using Python. It uses simple logic and natural language processing techniques to respond to user inputs. The chatbot can handle basic conversation flow and is designed as a beginner-friendly demonstration of how chatbots work.
 
 Features:
